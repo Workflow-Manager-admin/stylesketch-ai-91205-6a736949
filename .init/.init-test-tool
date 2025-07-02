@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/stylesketch-ai-91205-6a736949/stylesketch_backend"
+}
